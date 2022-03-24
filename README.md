@@ -4,6 +4,20 @@ This is a [Remix](https://remix.run) project bootstrapped from the [official tem
 
 [Configuration](https://docs.codesandbox.io/our-products/codesandbox-projects/configuration-overview) has been added to optimize it for [CodeSandbox Projects](https://codesandbox.io/p/dashboard).
 
+## Commands
+
+To start the dev server:
+```
+yarn dev
+```
+
+After you've started the dev server you can access it by going to [localhost:3000](http://localhost:3000).
+
+To build the app:
+```
+yarn build
+```
+
 ## Resources
 
 - [CodeSandbox Projects — Docs](https://docs.codesandbox.io)
