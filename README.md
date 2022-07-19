@@ -4,7 +4,7 @@ This is a [Remix](https://remix.run) project bootstrapped from the [official tem
 
 [Configuration](https://codesandbox.io/docs/projects/learn/setting-up/tasks) has been added to optimize it for [CodeSandbox Projects](https://codesandbox.io/p/dashboard).
 
-[Open in CodeSandbox](https://codesandbox.io/p/github/codesandbox/codesandbox-template-remix/main)
+[![Open in CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/github/codesandbox/codesandbox-template-remix/main)
 
 ## Commands
 
