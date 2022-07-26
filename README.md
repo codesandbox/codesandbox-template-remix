@@ -13,8 +13,6 @@ To start the dev server:
 yarn dev
 ```
 
-After you've started the dev server you can access it by going to [localhost:3000](http://localhost:3000).
-
 To build the app:
 ```
 yarn build
